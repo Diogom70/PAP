@@ -17,11 +17,11 @@ mecanismo para auxiliar as pessoas com a toma dos medicamentos.
 
 Breve descricao do circuito com imagem.
 
-![](doc/esquema.png)
+![](doc/esquema.PNG)
 
 
 
 ## Esquema
 
-![](doc/sprint.png)
+![](doc/sprint.PNG)
 
